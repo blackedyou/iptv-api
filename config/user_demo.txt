@@ -1,0 +1,3 @@
+央视频道,#genre#
+CCTV-1,http://xxx
+CCTV-2,http://xxx$!白名单   # $! 表示白名单（不测速）
